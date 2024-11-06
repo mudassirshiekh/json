@@ -53,6 +53,7 @@
 - [Execute unit tests](#execute-unit-tests)
 
 ## Design goals
+# By Mudassir Alam
 
 There are myriads of [JSON](https://json.org) libraries out there, and each may even have its reason to exist. Our class had these design goals:
 
